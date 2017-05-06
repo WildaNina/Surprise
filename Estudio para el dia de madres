@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+ <body>
+  <h1>Bible study</h1>
+  <p title="Mujer de la Biblia">
+  Rebeca.</p>
+  <p>
+   <b>se Encuentra Génesis 26-27.</b>
+  </p>
+ </body>
+</html>
+<!DOCTYPE html>
+<html>
+ <body>
+ <p>Versiculos interesante:</p>
+ <hr>
+ <p> Gn.26:28 Y ellos respondieron: Hemos visto que Jehová está contigo; y dijimos: Haya ahora juramento entre nosotros, entre tú y nosotros, y haremos pacto contigo.</p>
+ <hr>
+ <p>Gn.27:19 Y Jacob dijo a su padre: Yo soy Esaú tu primogénito; he hecho como me dijiste: levántate ahora, y siéntate, y come de mi caza, para que me bendigas..</p>
+ <hr>
+ <p>Gn.27:20 Entonces Isaac dijo a su hijo: ¿Cómo es que la hallaste tan pronto, hijo mío? Y él respondió: Porque Jehová tu Dios hizo que la encontrase delante de mí. 
+.</p>
+ </body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+ <title> Marquee Tag </title>
+ </head>
+<body>
+ <marquee bgcolor="#eeeeee" direction="right" scrollamount="10" width="100%" height="20">
+    La bendicion de Dios 
+ </marquee><br>
+ <p>
+ <marquee bgcolor="skyblue" direction="down" scrollamount="5" width="49%" height="500">
+   <center>Gn.26:24</center> 
+  <center>Jeremías 17:7-8</center>
+  <center>Proverbios 16:3</center>
+ </marquee>
+ <marquee bgcolor="skyblue" direction="up" scrollamount="5" width="49%" height="500">
+   <center>Éxodo 23:25</center> 
+  <center>Salmos 23:1-2</center>
+  <center>Filemón 1:25</center>
+ </marquee></p>
+ <marquee bgcolor="#eeeeee" direction="left" scrollamount="10" width="100%" height="20">
+    Dios bendiga a ti y tu familia!
+  </marquee>
+</body>
+</html>
