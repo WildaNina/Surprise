@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<style>
+.text{
+   float: left;
+   margin: 10px;
+   padding: 10px;
+   max-width: 500px;
+   height: 500px;
+   border: 1px solid black;
+}   
+</style>
+</head>
+<body>
+
+<h1>Un corazon agradecido</h1>
+<h2>Versiculo de hoy</h2>
+
+<div class="text">
+  <h2>Hebreos 11:7</h2>
+  <p>Por la fe Noé, cuando fue advertido por Dios acerca de cosas que aún no se veían, con temor preparó el arca en que su casa se salvase; y por esa fe condenó al mundo, y fue hecho heredero de la justicia que viene por la fe.</p>
+  <form action="/action_page.php">
+  Hch.6:1-7<br>
+  <p>6:3 Buscad, pues, hermanos, de entre vosotros a siete varones de buen testimonio, llenos del Espíritu Santo y de sabiduría, a quienes encarguemos de este trabajo. 
+6:4 Y nosotros persistiremos en la oración y en el ministerio de la palabra. 
+</p>
+	<h2>Debemos ser constantes al oracion para hacer llenados por el Espiritu Santo para que el Espiritu Santo nos llene de palabras sabias y dar testimonio para ministrar la palabra de Dios.</h2>
+  </form>
+  </div>
+
+<div class="text">
+  <h2>FE</h2>
+  <p>Hebreo.</p> 
+  <p>11:4 Por la fe Abel ofreció a Dios más excelente sacrificio que Caín, por lo cual alcanzó testimonio de que era justo, dando Dios testimonio de sus ofrendas; y muerto, aún habla por ella.
+</p>
+<footer>(Mt.7:7)Si deseas algo con todo corazon solo pide a Dios lo que deseas pero pidelo con el corazon sincero.</footer>
+</div>
+
+<div class="text">
+	<h2>Scripture Passage</h2>
+    <p>1P.5:1-10 dice Mas el Dios de toda gracia, que nos llamó a su gloria eterna en Jesucristo, después que hayáis padecido un poco de tiempo, él mismo os perfeccione, afirme, fortalezca y establezca. 
+</p>
+	<h2>Context: Dios asegura los que estan establecidos que van a tener una vida esterna donde no hay sufrimiento (Ap.21:4)</h2>
+    <h2>Realted Verses:</h2>
+    <p>He.13:21; 2Ts.2:17</p>
+    <h2>Prayer:</h2>
+    <p>Dios, que sea fortalecida bajo tu bendicion y sea firme en fe para estar bajo de tu cuidado.</p>
+   </div>
+</body>
+</html>
