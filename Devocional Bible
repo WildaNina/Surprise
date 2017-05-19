@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Formatting page</title>
+    </head>
+    <body> <div class="header"> Devoional Bible
+    <article>Meditacion:
+        Dt.4:9-10 dice El día que estuviste delante de Jehová tu Dios en Horeb, cuando Jehová me dijo: Reúneme el pueblo, para que yo les haga oír mis palabras, las cuales aprenderán, para temerme todos los días que vivieren sobre la tierra, y las enseñarán a sus hijos. 
+        Esto ayudaba a los padres recordaba la fildelidad de Dios, debemos recordar las maravillas de Dios para que nuestros hijos de nuestros hijos cuentes en su generacion la presencia de Dios en su vida.</article>
+        </div>
+    <div id="nav"> observacion: Pr.4:23 dice Sobre toda cosa guardada, guarda tu corazón; 
+Porque de él mana la vida. Guarda cada momento en tu corazon, cada experiencia para que tus hijos sepan cuanto Dios hasido fiel hoy y siempre.
+Gn.18:19 Porque yo sé que mandará a sus hijos y a su casa después de sí, que guarden el camino de Jehová, haciendo justicia y juicio, para que haga venir Jehová sobre Abraham lo que ha hablado acerca de él. 
+        </div>
+    <details> Dt.6:5-9 dice 6:5 Y amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todas tus fuerzas. 
+6:6 Y estas palabras que yo te mando hoy, estarán sobre tu corazón; 6:7 y las repetirás a tus hijos, y hablarás de ellas estando en tu casa, y andando por el camino, y al acostarte, y cuando te levantes. Que hermoso como padres o como hijos cuando sentimos el amor que Dios nos da y nos da fuerzas y fortaleza para recibir en nuestros corazon pq sin Dios no hay nada imposible.
+</details>
+    <main> Scripture chain
+    <table border="1"
+    <tr>
+    <th>Verse 1</th>
+    <th>Verse 2</th>
+    <th>Verse 3</th>
+    </tr>
+    <tr><td rowspan="2">Dt.4:9,10; 6:7</td>
+    <td>1S.1; Sal.62:8</td> <td>Jue.18:6; 1S.25:35; Mr.5:34</td></tr>
+    <tr><td> Rut.2:13; Ec.9:7</td> <td> Lc.2:22; 1S.11,18</td></tr>
+    <tr><td colpsan="3">Ana alabo a Dios por ser  por ser roca firme, fuerte e inmutable. Dios contesto su oracion, no importa tu situacion o problema <u>quiero que recuerden que Dios siemre esta presente y El nunca falla. Solo confien en El y El hara.</u></td></tr>
+    </table>
+    </main>
+    <section><a href="http://wildanina.blogspot.com/"> Ir al website</a></section>
+    <div id="footer">Dios siempre esta trabajando en este mundo, aun cuando no veamos lo que hace.No importa que clase de presiones debamos soportar ni a cuantos cambios debamos  enfrentar las situacion. Dios tiene todo el control de nuestra situacion.</div>
+    </body>
+    </html>
