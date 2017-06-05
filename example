@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content= "A page for exploring basic HTML documents">
+<title> Basic HTML</title
+</head>
+<body>
+<h1>Lets learn HTML</h1>
+<p>easy to <b>learn</b> HTML</p>
+<a>href="https://www.w3schools.com/html/html_basic.asp"> this is a link</a>
+<p><b>Title = HTML Styles</b></p>
+<p>Yo y mi <br>casa serviremos<br>al Señor Jos.24:15</p>
+<body style="background-color:powderblue;">
+<p style="text-align:center;"><b>Text Alignment</b></p>
+<h2><p style="text-align:center;"> my favorite color is <del> orange </del> pink.</h2>
+<form action="/action_page.php">
+ <fieldset>
+ <legend>Tips HTML:</legend>
+ Form:<br>
+ <input type="text" name="form" value="form data"><br>
+ Responsive:<br>
+ <input type="text" name="Responsive" value="Data/Cell"><br><br>
+ <input type="submit" value="Submit">
+</fieldset>
+</form> 
+<button type="button" onclick="alert('Thanks for practice')">Click Me!</button> 
+</body>
+</html>
